@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+h1{
+  color:cadetblue;
+  font-family : Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+table{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  border-collapse: collapse;
+}
+tr.header{
+  background-color: aquamarine;
+
+}
+td{
+  border: 1px,solid,black;
+}
